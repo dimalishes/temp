@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<yml_catalog date="2022-04-19 08:10">
+	<shop>
+		<name>Компания КанцЗаказ в Иваново, канцтовары для школы и офиса</name>
+		<company>ООО "Объединение КАНЦТОВАРЫ"</company>
+		<url>http://kanczakaz.ru</url>
+		<currencies>
+			<currency rate="1" id="RUR"/>
+		</currencies>
+		<categories>
+			<category id="100733">Школа</category>
+			<category id="100616">Мебель для дошкольных учреждений</category>
+			<category id="100615">Мебель для школ и других учебных заведений</category>
+			<category id="100266">Подготовка к школе</category>
+			<category id="101064">Канцтовары</category>
+			<category id="101169" parentId="100733">Принадлежности для рисования</category>
+			<category id="101213" parentId="100733">Рюкзаки, ранцы, сумки</category>
+			<category id="101210" parentId="100733">Товары для обучения</category>
+			<category id="101471" parentId="100733">Карты, атласы, глобусы</category>
+			<category id="101285" parentId="100615">Шкафы и стеллажи для учебных классов</category>
+			<category id="101295" parentId="100616">Столы детские</category>
+			<category id="101294" parentId="100616">Стулья и скамьи детские</category>
+			<category id="101291" parentId="100615">Стулья для школ и других учебных заведений</category>
+			<category id="100221" parentId="101064">Канцелярские мелочи</category>
+			<category id="100215" parentId="101064">Корректирующие средства</category>
+			<category id="100105" parentId="100733">Товары для лепки</category>
+			<category id="100103" parentId="100733">Папки и сумки для тетрадей, уроков труда</category>
+			<category id="100790" parentId="100615">Столы для учебных заведений</category>
+			<category id="100013" parentId="100616">Наборы детской мебели</category>
+			<category id="100459" parentId="100616">Кровати и матрацы детские</category>
+			<category id="100458" parentId="100616">Шкафы для дошкольных учреждений</category>
+			<category id="100465" parentId="100733">Дневники школьные, расписание уроков</category>
+			<category id="100469" parentId="100733">Тетради</category>
+			<category id="100471" parentId="100733">Альбомы и папки</category>
+			<category id="100472" parentId="100733">Цветная бумага и картон</category>
+			<category id="100477" parentId="100733">Пеналы</category>
+			<category id="100480" parentId="100733">Аксессуары для тетрадей, книг и учебников</category>
+			<category id="101382" parentId="101064">Папки и системы архивации</category>
+			<category id="101463" parentId="101064">Клеящие средства</category>
+			<category id="101476" parentId="101064">Клейкие ленты канцелярские и диспенсеры</category>
+			<category id="101428" parentId="101064">Письменные и чертежные принадлежности</category>
+			<category id="101145" parentId="101428">Принадлежности для черчения</category>
+			<category id="101167" parentId="100471">Альбомы и папки для рисования</category>
+			<category id="101190" parentId="100105">Пластилин</category>
+			<category id="101187" parentId="100472">Цветная бумага</category>
+			<category id="101206" parentId="101210">Счетные палочки и счеты</category>
+			<category id="101101" parentId="100465">Расписание уроков</category>
+			<category id="101102" parentId="100480">Закладки для книг</category>
+			<category id="101117" parentId="100103">Папки для тетрадей и уроков труда</category>
+			<category id="101021" parentId="101382">Папки адресные</category>
+			<category id="101309" parentId="100215">Корректирующие ручки</category>
+			<category id="101307" parentId="100215">Корректирующие ленты</category>
+			<category id="101304" parentId="101428">Ручки бизнес-класса</category>
+			<category id="101441" parentId="100469">Тетради на кольцах и сменные блоки к ним</category>
+			<category id="101440" parentId="100469">Тетради формата А4</category>
+			<category id="101438" parentId="100469">Тетради для нот</category>
+			<category id="101456" parentId="100469">Тетради 12-24 листов</category>
+			<category id="101455" parentId="100469">Тетради предметные</category>
+			<category id="101454" parentId="100465">Дневники для старших классов</category>
+			<category id="101449" parentId="101471">Глобусы</category>
+			<category id="100923" parentId="101428">Ручки перьевые</category>
+			<category id="100921" parentId="101382">Папки-файлы перфорированные пластиковые</category>
+			<category id="101046" parentId="101382">Папки для кафе и ресторанов</category>
+			<category id="100556" parentId="101213">Рюкзаки для начальной и средней школы</category>
+			<category id="100554" parentId="101213">Сумки для обуви</category>
+			<category id="100550" parentId="100477">Пеналы школьные с наполнением</category>
+			<category id="100440" parentId="100221">Шило канцелярское</category>
+			<category id="100438" parentId="101463">Клей-карандаш</category>
+			<category id="100451" parentId="100105">Доски, стеки и формочки для лепки</category>
+			<category id="100482" parentId="101210">Веера-кассы</category>
+			<category id="100481" parentId="101210">Кассы "Учись считать"</category>
+			<category id="100636" parentId="100465">Дневники для младших классов</category>
+			<category id="100036" parentId="101382">Папки пластиковые с прижимом и доски-клипборды</category>
+			<category id="100043" parentId="101428">Ручки капиллярные и линеры</category>
+			<category id="100007" parentId="100477">Пеналы школьные створчатые</category>
+			<category id="100015" parentId="100103">Папки-сумки с ручками</category>
+			<category id="101637" parentId="100105">Пластичная масса для моделирования</category>
+			<category id="101331" parentId="101213">Ранцы для начальной школы</category>
+			<category id="101334" parentId="101213">Сумки школьные</category>
+			<category id="100935" parentId="101213">Рюкзаки городские для старшеклассников и студентов</category>
+			<category id="100963" parentId="100480">Пленки самоклеящиеся для книг, тетрадей и журналов</category>
+			<category id="100357" parentId="101471">Карты географические</category>
+			<category id="100213" parentId="101382">Картотеки, разделители, индексные окна</category>
+			<category id="100245" parentId="101382">Скоросшиватели пластиковые</category>
+			<category id="100235" parentId="101428">Точилки</category>
+			<category id="100259" parentId="101428">Расходные материалы для письменных принадлежностей</category>
+			<category id="100257" parentId="101428">Карандаши цветные</category>
+			<category id="100048" parentId="101428">Ручки подарочные</category>
+			<category id="100085" parentId="101169">Аксессуары для рисования</category>
+			<category id="100084" parentId="101169">Кисти для рисования</category>
+			<category id="100077" parentId="101169">Краски для детского творчества</category>
+			<category id="100122" parentId="101169">Мелки</category>
+			<category id="100104" parentId="100480">Обложки для книг, тетрадей и журналов</category>
+			<category id="101560" parentId="100471">Альбомы и папки для черчения</category>
+			<category id="101555" parentId="101210">Классные журналы</category>
+			<category id="101607" parentId="100469">Тетради 40-48 листов</category>
+			<category id="101604" parentId="100469">Тетради более 60 листов</category>
+			<category id="101489" parentId="100465">Дневники для музыкальной школы</category>
+			<category id="101077" parentId="100221">Иглы для чеков, заметок</category>
+			<category id="100489" parentId="101428">Ручки со стираемыми чернилами</category>
+			<category id="100700" parentId="100221">Наборы канцелярских мелочей</category>
+			<category id="100723" parentId="101213">Элементы светоотражающие</category>
+			<category id="100626" parentId="100480">Наклейки</category>
+			<category id="100624" parentId="101210">Наборы первоклассников</category>
+			<category id="100133" parentId="100469">Тетради-блокноты</category>
+			<category id="101446" parentId="100477">Косметички и сумочки универсальные</category>
+			<category id="101444" parentId="100477">Пеналы школьные мягкие</category>
+			<category id="101457" parentId="100465">Дневники универсальные</category>
+			<category id="101451" parentId="101210">Портфолио</category>
+			<category id="100919" parentId="101169">Декоративные и хобби краски</category>
+			<category id="100908" parentId="100472">Цветной и белый картон</category>
+			<category id="100851" parentId="101471">Атласы детские географические</category>
+			<category id="100538" parentId="100221">Звонки настольные</category>
+			<category id="100380" parentId="101382">Механизмы для скоросшивания</category>
+			<category id="101514" parentId="100105">Наборы для творчества с пластилином</category>
+			<category id="101540" parentId="100105">Наборы для лепки</category>
+			<category id="100570" parentId="101428">Фломастеры</category>
+			<category id="101127" parentId="101382">Аксессуары для документов и папок</category>
+			<category id="101258" parentId="101382">Короба и архивные системы пластиковые</category>
+			<category id="100844" parentId="101213">Рюкзаки для дошкольников</category>
+			<category id="100859" parentId="100105">Песок для лепки</category>
+			<category id="100887" parentId="101210">Обучающие пособия и тренажеры для обучения</category>
+			<category id="100876" parentId="101428">Ручки гелевые</category>
+			<category id="100228" parentId="101210">Обучающие карточки</category>
+			<category id="101384" parentId="101428">Ластики</category>
+			<category id="101176" parentId="100471">Бумага для рисования в рулоне</category>
+			<category id="101202" parentId="101428">Карандаши</category>
+			<category id="100969" parentId="101213">Кармашки в шкафчик для детского сада</category>
+			<category id="101381" parentId="101382">Короба и архивные системы картонные</category>
+			<category id="101405" parentId="101382">Папки и скоросшиватели картонные</category>
+			<category id="101404" parentId="101382">Папки на кольцах</category>
+			<category id="101408" parentId="101382">Папки с вкладышами (файлами)</category>
+			<category id="101340" parentId="101382">Папки-конверты пластиковые</category>
+			<category id="101338" parentId="101382">Папки-уголки пластиковые</category>
+			<category id="101344" parentId="101382">Папки-регистраторы с арочным механизмом</category>
+			<category id="101343" parentId="101382">Подвесные папки и картотеки</category>
+			<category id="101360" parentId="100471">Папки для курсовых и дипломов</category>
+			<category id="101459" parentId="101382">Папки на резинках пластиковые</category>
+			<category id="101462" parentId="101463">Клей канцелярский</category>
+			<category id="101461" parentId="101463">Клей ПВА</category>
+			<category id="101477" parentId="100215">Корректирующие жидкости</category>
+			<category id="101482" parentId="101476">Клейкие ленты канцелярские</category>
+			<category id="101481" parentId="101476">Диспенсеры для канцелярской ленты</category>
+			<category id="101480" parentId="100221">Скрепки канцелярские</category>
+			<category id="101479" parentId="100221">Кнопки канцелярские</category>
+			<category id="101478" parentId="100221">Зажимы для бумаг</category>
+			<category id="101424" parentId="100221">Булавки</category>
+			<category id="101432" parentId="100221">Лупы</category>
+			<category id="101427" parentId="101428">Ручки шариковые</category>
+			<category id="100343" parentId="101428">Ручки-роллеры</category>
+			<category id="100339" parentId="101428">Наборы письменных принадлежностей</category>
+			<category id="100367" parentId="101428">Маркеры и текстовыделители</category>
+			<category id="100289" parentId="100221">Диспенсеры для скрепок</category>
+			<category id="100287" parentId="100480">Подставки для книг</category>
+			<category id="101143" parentId="101560">Папки для черчения</category>
+			<category id="101144" parentId="101145">Линейки</category>
+			<category id="101171" parentId="101145">Тубусы для чертежей</category>
+			<category id="101172" parentId="100259">Тушь для письма и черчения</category>
+			<category id="101170" parentId="100570">Фломастеры классические</category>
+			<category id="101164" parentId="100257">Карандаши цветные</category>
+			<category id="101161" parentId="100122">Мелки и карандаши восковые</category>
+			<category id="101162" parentId="100122">Мел белый и цветной</category>
+			<category id="101199" parentId="101202">Карандаши чернографитные</category>
+			<category id="101197" parentId="101384">Ластики классические</category>
+			<category id="101198" parentId="100235">Точилки ручные</category>
+			<category id="101194" parentId="100077">Гуашь школьная</category>
+			<category id="101192" parentId="100085">Фартуки для уроков труда</category>
+			<category id="101188" parentId="101187">Бумага цветная в наборах</category>
+			<category id="101184" parentId="100908">Картон цветной в наборах</category>
+			<category id="101434" parentId="100048">Ручки перьевые подарочные</category>
+			<category id="101437" parentId="101441">Тетради на кольцах</category>
+			<category id="101450" parentId="100357">Карты Мира и России</category>
+			<category id="100901" parentId="101427">Ручки шариковые автоматические</category>
+			<category id="100899" parentId="100876">Ручки гелевые автоматические</category>
+			<category id="101052" parentId="100921">Папки перфорированные</category>
+			<category id="101050" parentId="101127">Разделители</category>
+			<category id="100974" parentId="100085">Стаканы-непроливайки для рисования</category>
+			<category id="100532" parentId="101555">Школьные журналы и книги</category>
+			<category id="100435" parentId="101405">Папки "Дело" без скоросшивателя</category>
+			<category id="100460" parentId="101187">Бумага цветная крепированная</category>
+			<category id="100457" parentId="100908">Картон белый в наборах</category>
+			<category id="100456" parentId="100077">Акварель школьная</category>
+			<category id="100454" parentId="100077">Краски пальчиковые</category>
+			<category id="100453" parentId="100919">Краски по стеклу и керамике</category>
+			<category id="100452" parentId="100919">Краски по ткани</category>
+			<category id="100450" parentId="101145">Перья плакатные</category>
+			<category id="100669" parentId="100213">Разделители для настольных картотек</category>
+			<category id="100017" parentId="100257">Карандаши цветные акварельные</category>
+			<category id="100124" parentId="101145">Циркули и готовальни</category>
+			<category id="100950" parentId="101441">Сменные блоки для тетрадей на кольцах</category>
+			<category id="100947" parentId="100921">Папки перфорированные специальные</category>
+			<category id="100785" parentId="101145">Наборы запасных грифелей для циркулей</category>
+			<category id="100240" parentId="101340">Папки-конверты на молнии</category>
+			<category id="100238" parentId="100245">Папки с пружинным и пластиковым скоросшивателем</category>
+			<category id="100255" parentId="100235">Точилки механические</category>
+			<category id="100254" parentId="100235">Точилки электрические</category>
+			<category id="101558" parentId="101560">Альбомы для черчения</category>
+			<category id="101618" parentId="100367">Маркеры для хобби</category>
+			<category id="101012" parentId="101145">Треугольники</category>
+			<category id="101011" parentId="101145">Транспортиры</category>
+			<category id="101009" parentId="101145">Наборы чертежные</category>
+			<category id="101007" parentId="101145">Трафареты и лекала</category>
+			<category id="101005" parentId="101145">Доски для черчения и рейсшины</category>
+			<category id="100493" parentId="101427">Ручки фигурные</category>
+			<category id="100653" parentId="101427">Ручки шариковые на шнурке</category>
+			<category id="100642" parentId="100367">Маркеры промышленные и прочие специальные</category>
+			<category id="100640" parentId="100367">Маркеры-краски лаковые</category>
+			<category id="100637" parentId="100367">Маркеры меловые</category>
+			<category id="100681" parentId="100367">Маркеры для пленок</category>
+			<category id="100679" parentId="100367">Маркеры для шин и резины</category>
+			<category id="100677" parentId="100367">Маркеры ультрафиолетовые</category>
+			<category id="101283" parentId="100077">Грим для лица</category>
+			<category id="101453" parentId="101127">Карманы самоклеящиеся для папок</category>
+			<category id="100891" parentId="101427">Ручки-стилусы</category>
+			<category id="100905" parentId="101187">Фольга цветная</category>
+			<category id="100434" parentId="100367">Маркеры для флипчартов</category>
+			<category id="100503" parentId="100259">Стержни для ручек-роллеров</category>
+			<category id="100201" parentId="101187">Цветная бумага, цветной картон для квиллинга и оригами</category>
+			<category id="100244" parentId="101384">Ластики художественные</category>
+			<category id="100234" parentId="101405">Папки архивные для переплета</category>
+			<category id="100233" parentId="100084">Наборы школьных кистей из синтетического волоса</category>
+			<category id="100232" parentId="100084">Наборы школьных кистей из натурального волоса</category>
+			<category id="100258" parentId="100084">Кисти для рисования</category>
+			<category id="100408" parentId="101343">Подвесные папки Foolscap</category>
+			<category id="100381" parentId="101202">Карандаши специальные</category>
+			<category id="101512" parentId="101187">Наборы цветной бумаги и картона</category>
+			<category id="101508" parentId="100085">Палитры для рисования</category>
+			<category id="101539" parentId="100048">Ручки-роллеры подарочные</category>
+			<category id="100368" parentId="100919">Краски и вспомогательные материалы к сборным моделям</category>
+			<category id="101122" parentId="101343">Держатели ярлычков для подвесных папок</category>
+			<category id="101126" parentId="100213">Индексные окна для картотечных разделителей</category>
+			<category id="101256" parentId="100048">Подарочные ручки в наборах</category>
+			<category id="101257" parentId="101381">Короба архивные</category>
+			<category id="101254" parentId="100367">Маркеры и воск для реставрации мебели</category>
+			<category id="101217" parentId="100085">Наборы для уроков труда</category>
+			<category id="101218" parentId="100085">Клеёнки для уроков труда</category>
+			<category id="100775" parentId="100048">Ручки гелевые подарочные</category>
+			<category id="100777" parentId="100085">Халаты школьные</category>
+			<category id="101383" parentId="100919">Краски акриловые для рисования и хобби</category>
+			<category id="101385" parentId="101384">Ластики электрические</category>
+			<category id="101386" parentId="100259">Расходные материалы для электрических ластиков</category>
+			<category id="101380" parentId="101405">Папки картонные с завязками</category>
+			<category id="101407" parentId="101405">Скоросшиватели картонные</category>
+			<category id="101406" parentId="101381">Накопители документов</category>
+			<category id="101403" parentId="100036">Папки с прижимом</category>
+			<category id="101409" parentId="100245">Папки-скоросшиватели мягкие</category>
+			<category id="101339" parentId="101340">Папки-конверты с кнопкой</category>
+			<category id="101342" parentId="101343">Подвесные папки А4</category>
+			<category id="101341" parentId="101343">Подставки для подвесных папок</category>
+			<category id="101358" parentId="100213">Картотеки настольные</category>
+			<category id="101359" parentId="100036">Планшеты и клипборды</category>
+			<category id="101426" parentId="100876">Ручки гелевые неавтоматические</category>
+			<category id="101425" parentId="101427">Ручки шариковые неавтоматические</category>
+			<category id="100342" parentId="100259">Стержни для ручек гелевых</category>
+			<category id="100340" parentId="100259">Стержни для ручек шариковых</category>
+			<category id="100337" parentId="100048">Ручки шариковые подарочные</category>
+			<category id="100333" parentId="100259">Картриджи чернильные и чернила для письма и черчения</category>
+			<category id="100330" parentId="101427">Ручки шариковые на подставке</category>
+			<category id="100372" parentId="101202">Карандаши механические</category>
+			<category id="100371" parentId="100259">Грифели для механических карандашей</category>
+			<category id="100365" parentId="100367">Маркеры для CD и DVD</category>
+			<category id="100363" parentId="100367">Маркеры перманентные</category>
+			<category id="100373" parentId="100367">Текстовыделители</category>
+			<category id="100188" parentId="100367">Маркеры для досок</category>
+		</categories>
+		<offers>
+			<offer available="true" id="100264">
+				<url>http://kanczakaz.ru/catalog/goods/penaly-shkolnyje-magkije1/100264/</url>
+				<name>Пенал-тубус СТАММ, пластиковый, 190х45 мм, 5 цветов ассорти, ПН02</name>
+				<price>54.6</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>101444</categoryId>
+				<picture>https://s3.ibta.ru/goods/100264/16ebfaa794fc79226367d9dba9e3a1f2_x.jpg</picture>
+				<delivery>true</delivery>
+				<sales_notes>Мин партия 1 шт.</sales_notes>
+				<description><![CDATA[<p>Пенал-тубус для хранения письменных принадлежностей. Изготовлен из легкого и прочного пластика, закрывается при помощи мини-защёлок. Предназначен для учащихся младших классов. Поставляется в нескольких вариантах цвета (без возможности выбора).</p><ul><li>Тип товара: пенал-тубус.</li><li>Застежка: нет.</li><li>Назначение: универсальное.</li><li>Количество отделений: 1.</li><li>Материал: пластик.</li><li>Базовый цвет: ассорти.</li><li>Длина: 19.5 см.</li><li>Ширина: 4.5 см.</li><li>Упаковка: нет.</li></ul>]]></description>
+			</offer>
+			<offer available="true" id="100329">
+				<url>http://kanczakaz.ru/catalog/goods/plastilin1/100329/</url>
+				<name>Пластилин классический ГАММА &quot;Мультики&quot;, 10 цветов, 200 г, со стеком, картонная упаковка, 280017/281017</name>
+				<price>118.08</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>101190</categoryId>
+				<picture>https://s3.ibta.ru/goods/100329/52fb4a6e031d8_x.jpg</picture>
+				<delivery>true</delivery>
+				<sales_notes>Мин партия 1 шт.</sales_notes>
+				<description><![CDATA[<p>Высококачественный пластилин в картонной упаковке с ярким и привлекательным дизайном. Обладает прекрасными пластическими характеристиками и яркими цветами.</p><ul><li>Количество цветов в наборе: 10.</li><li>Серия: Мультики.</li><li>Тип: классический.</li><li>Наличие аксессуара: стек.</li><li>Вид упаковки: картонная коробка.</li><li>Масса / объём: 200 г/мл.</li><li>Масса  / объём бруска: 20 г/мл.</li></ul>]]></description>
+			</offer>
+			<offer available="true" id="100337">
+				<url>http://kanczakaz.ru/catalog/goods/plastilin1/100337/</url>
+				<name>Пластилин классический ГАММА &quot;Мультики&quot;, 12 цветов, 240 г, со стеком, картонная упаковка, 280018/281018</name>
+				<price>143.46</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>101190</categoryId>
+				<picture>https://s3.ibta.ru/goods/100337/52fb4b1075661_x.jpg</picture>
+				<delivery>true</delivery>
+				<sales_notes>Мин партия 1 шт.</sales_notes>
+				<description><![CDATA[<p>Высококачественный пластилин в картонной упаковке с ярким и привлекательным дизайном. Обладает прекрасными пластическими характеристиками и яркими цветами.</p><ul><li>Количество цветов в наборе: 12.</li><li>Серия: Мультики.</li><li>Тип: классический.</li><li>Наличие аксессуара: стек.</li><li>Вид упаковки: картонная коробка.</li><li>Масса / объём: 240 г/мл.</li><li>Масса  / объём бруска: 20 г/мл.</li></ul>]]></description>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>
