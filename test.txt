@@ -1,8 +1,7 @@
 test
-<<<<<<< HEAD
+
 additional line
 2 additional line
 3 additional line
-=======
-additional line
->>>>>>> parent of 61f6155 (Update test.txt)
+
+additional line 3
